@@ -1,0 +1,1 @@
+{"uuid":"c0c901cd-4845-4741-b2a8-04321ffb05ce","name":"StateListTest","children":["da8dc419-f756-4b33-a8d9-abc968cb45fc"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1701062887113,"stop":1701062892624}],"afters":[],"start":1701062887006,"stop":1701062897921}
